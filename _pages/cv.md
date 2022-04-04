@@ -11,30 +11,33 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. and M.S. in Physics, Indian Institute of Science Education and Research, Pune, 2015
+* Ph.D in Astronomy, University of Waterloo, 2022 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* May 2017 - present: Research Assistant
+  * University of Waterloo
+  * Duties included: Analyzing X-ray, radio, optical wavelength data,
+    * Making impactful graphs and images
+    * Interpreting scientific results
+    * Writing scientific journal articles and reports
+  * Supervisor: Professor Brian McNamara
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* May 2017 - present: Teaching Assistant
+  * University of Waterloo
+  * Duties included: Marking assignments and exams, conducting lab sessions, conducting tutorials, holding office hours
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Critical thinking 1
+* Problem solving 2
+* Git 3
+  * Committing changes 3.1
+  * Pushing changes 3.2
+  * Merging and pulling repositories 3.3
+* Python 4
+* Bash 5
 
 Publications
 ======
@@ -54,6 +57,7 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+<!-- Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+ -->
