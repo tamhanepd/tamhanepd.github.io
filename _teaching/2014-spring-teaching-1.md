@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "ECE105"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "University of Waterloo"
+date: 2018-01-01
+location: "Waterloo, Canada"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Conducted tutorials for the course, graded student's assignments and exams, held office hours.

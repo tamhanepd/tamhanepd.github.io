@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. and M.S. in Physics, Indian Institute of Science Education and Research, Pune, 2015
 * Ph.D in Astronomy, University of Waterloo, 2022 (expected)
+* B.S. and M.S. in Physics, Indian Institute of Science Education and Research, Pune, 2015
 
 Work experience
 ======
@@ -22,7 +22,7 @@ Work experience
     * Making impactful graphs and images
     * Interpreting scientific results
     * Writing scientific journal articles and reports
-  * Supervisor: Professor Brian McNamara
+  * Supervisor: Prof. Brian McNamara
 
 * May 2017 - present: Teaching Assistant
   * University of Waterloo
@@ -30,14 +30,24 @@ Work experience
   
 Skills
 ======
-* Critical thinking 1
-* Problem solving 2
-* Git 3
-  * Committing changes 3.1
-  * Pushing changes 3.2
-  * Merging and pulling repositories 3.3
-* Python 4
-* Bash 5
+* Critical thinking
+* Problem solving
+* Data Analysis
+* Data Visualization
+* Git
+  * Committing changes
+  * Pushing changes
+  * Merging and pulling repositories
+* Python
+  * Matplotlib
+  * Numpy
+  * SciPy
+  * Astropy
+  * Pandas
+  * PyTorch
+* Jupyter
+* Bash
+* LaTeX
 
 Publications
 ======
