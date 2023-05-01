@@ -14,6 +14,4 @@ I'm currently a Postdoctoral researcher, having graduated with a PhD in Astronom
 
 Aside from my research, I have a passion for data science, Machine Learning and AI. I am always eager to learn new skills and apply them to solve different problems.
 
-In my leisure time, I relish being outdoors, engaging in activities such as hiking, biking, and both indoor and outdoor rock climbing. I also find joy in nature and bird photography.
-
-In my free time, I enjoy speding time outdoors hiking, biking, indoor/outdoor rock climbing. i also enjoy nature and bird photography.
+In my free time, I enjoy speding time outdoors hiking, biking, indoor/outdoor rock climbing. I also enjoy nature and bird photography.
