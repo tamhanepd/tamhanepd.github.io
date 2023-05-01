@@ -9,45 +9,48 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Astronomy, University of Waterloo, 2022 (expected)
-* B.S. and M.S. in Physics, Indian Institute of Science Education and Research, Pune, 2015
+# SKILLS
+- Programming Languages: Python (10+ years), C++, Scala, SQL
+- Tools: Matplotlib, Scikit-learn, Pandas, Jupyter Notebook, PyTorch, Plotly, Git, LaTeX, Linux, Spark
 
-Work experience
-======
-* May 2017 - present: Research Assistant
-  * University of Waterloo
-  * Duties included: Analyzing X-ray, radio, optical wavelength data,
-    * Making impactful graphs and images
-    * Interpreting scientific results
-    * Writing scientific journal articles and reports
-  * Supervisor: Prof. Brian McNamara
+# WORK EXPERIENCE
+## Research Assistant | University of Waterloo, Canada
+### May 2017 – December 2022
+- Conducted in-depth analysis of several Terabytes of radio, optical and X-ray telescope data of galaxies to generate science ready images and spectra and extracted key features for analysis.
+- Utilized Bayesian methods and linear regression to perform statistical analysis on galaxy properties extracted from images and spectra leading to new findings which were published in a reputed journal.
+- Demonstrated adaptability and flexibility by reassessing and modifying project goals when it became clear key data would be unavailable.
+- Collaborated with an international team of researchers, leading and co-leading projects that resulted in 4 academic papers and presentations at international conferences.
 
-* May 2017 - present: Teaching Assistant
-  * University of Waterloo
-  * Duties included: Marking assignments and exams, conducting lab sessions, conducting tutorials, holding office hours
-  
-Skills
-======
-* Critical thinking
-* Problem solving
-* Data Analysis
-* Data Visualization
-* Git
-  * Committing changes
-  * Pushing changes
-  * Merging and pulling repositories
-* Python
-  * Matplotlib
-  * Numpy
-  * SciPy
-  * Astropy
-  * Pandas
-  * PyTorch
-* Jupyter
-* Bash
-* LaTeX
+## Teaching Assistant | University of Waterloo, Canada
+### May 2017 – December 2022
+- Developed and delivered engaging tutorials for undergraduate physics courses providing students with a solid understanding of core concepts.
+- Instructed 5 lab courses, graded assignments, lab reports and exams both in person and online.
+
+## Visiting Research Student | National Centre for Radio Astrophysics, India
+### May 2014 – May 2015
+- Led the project to analyze data of a galaxy I discovered, modeled its spectrum, and derived its physical properties.
+- Consolidated research results into a scientific paper that was published in a reputed journal and received media attention.
+- Organized large astronomical datasets with thousands of galaxies and performed statistical analysis to identify correlations between various galaxy properties.
+
+# EDUCATION
+## PhD in Astronomy – University of Waterloo, Canada
+### 2017 – 2022
+- Relevant courses: Astrostatistics, Machine Learning in Physics
+
+## BS & MS in Physics – Indian Institute of Science Education and Research Pune, India
+### 2010 – 2015
+
+# AWARDS
+- Marie Curie Graduate Student Award, 2017
+- INSPIRE Scholarship (INR 80,000/year for 5 years) by Govt. of India to pursue science, 2010 – 2015
+
+# CONFERENCES/WORKSHOPS
+- Compute Ontario Summer School: ML, Git and Deep Learning, 2022
+- Galaxy clusters 2022: Challenges and Cosmological perspectives (Delivered a talk), 2022
+
+# VOLUNTEERING
+- Volunteered for Marathi language Wikipedia by writing 100+ articles and creating infoboxes, 2015 – 2017
+- Participated in Science outreach events for school children by presenting posters and conducting experiments.
 
 Publications
 ======
