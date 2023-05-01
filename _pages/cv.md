@@ -14,6 +14,12 @@ redirect_from:
 - Tools: Matplotlib, Scikit-learn, Pandas, Jupyter Notebook, PyTorch, Plotly, Git, LaTeX, Linux, Spark
 
 # WORK EXPERIENCE
+## Postdoc | University of Waterloo, Canada
+### February 2023 – August 2023
+- Simulated observations of galaxy clusters for the upcoming XRISM mission.
+- Preparing XRISM proposals.
+- Writing scientific articles.
+
 ## Research Assistant | University of Waterloo, Canada
 ### May 2017 – December 2022
 - Conducted in-depth analysis of several Terabytes of radio, optical and X-ray telescope data of galaxies to generate science ready images and spectra and extracted key features for analysis.
