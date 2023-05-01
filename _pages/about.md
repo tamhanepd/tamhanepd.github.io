@@ -9,8 +9,11 @@ redirect_from:
 ---
 
 Hello! Welcome to my homepage.
-I am a PhD candidate in astronomy at the University of Waterloo, ON, Canada. My general research area is AGN feedback. Specifically, I am studying the impact of mechanical feedback in central cluster galaxies to study its role in suppressing star formation and galaxy evolution. I use data across the electromagnetic spectrum from X-rays to radio, from ground and space based telescopes. I study the kinematics and energics of gases in various temperatures from 10 million K down to few 10s K, and their interaction with radio jets/lobes.
 
-I am also passionate about data science, Machine Learning and AI. I am looking forward to learning new skills and applying them to solve different problems.
+I'm currently a Postdoctoral researcher, having graduated with a PhD in Astronomy from the University of Waterloo, ON, Canada in 2022. My research interests lie in the realm of AGN feedback, with a specific focus on radio-mechanical feedback in galaxy clusters. I examine the impact of this feedback on central cluster galaxies, particularly its role in suppressing star formation and influencing galaxy evolution. My studies utilize data from across the electromagnetic spectrum, encompassing X-rays to radio waves employing both ground and space-based telescopes. A key part of my work involves studying the kinematics and energetics of gases in various temperature ranges, from 10 million K down to a few tens K, and their interaction with radio jets/lobes.
+
+Aside from my research, I have a passion for data science, Machine Learning and AI. I am always eager to learn new skills and apply them to solve different problems.
+
+In my leisure time, I relish being outdoors, engaging in activities such as hiking, biking, and both indoor and outdoor rock climbing. I also find joy in nature and bird photography.
 
 In my free time, I enjoy speding time outdoors hiking, biking, indoor/outdoor rock climbing. i also enjoy nature and bird photography.
