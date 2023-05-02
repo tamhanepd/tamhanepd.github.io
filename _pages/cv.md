@@ -9,11 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-# SKILLS
+SKILLS
+======
 - Programming Languages: Python (10+ years), C++, Scala, SQL
 - Tools: Matplotlib, Scikit-learn, Pandas, Jupyter Notebook, PyTorch, Plotly, Git, LaTeX, Linux, Spark
 
-# WORK EXPERIENCE
+WORK EXPERIENCE
+======
 ## Postdoc | University of Waterloo, Canada
 ### February 2023 – August 2023
 - Simulated observations of galaxy clusters for the upcoming XRISM mission.
@@ -38,7 +40,10 @@ redirect_from:
 - Consolidated research results into a scientific paper that was published in a reputed journal and received media attention.
 - Organized large astronomical datasets with thousands of galaxies and performed statistical analysis to identify correlations between various galaxy properties.
 
-# EDUCATION
+
+
+EDUCATION
+======
 ## PhD in Astronomy – University of Waterloo, Canada
 ### 2017 – 2022
 - Relevant courses: Astrostatistics, Machine Learning in Physics
@@ -46,17 +51,23 @@ redirect_from:
 ## BS & MS in Physics – Indian Institute of Science Education and Research Pune, India
 ### 2010 – 2015
 
-# AWARDS
+
+
+AWARDS
+======
 - Marie Curie Graduate Student Award, 2017
 - INSPIRE Scholarship (INR 80,000/year for 5 years) by Govt. of India to pursue science, 2010 – 2015
 
-# CONFERENCES/WORKSHOPS
+CONFERENCES/WORKSHOPS
+======
 - Compute Ontario Summer School: ML, Git and Deep Learning, 2022
 - Galaxy clusters 2022: Challenges and Cosmological perspectives (Delivered a talk), 2022
 
-# VOLUNTEERING
+VOLUNTEERING
+======
 - Volunteered for Marathi language Wikipedia by writing 100+ articles and creating infoboxes, 2015 – 2017
 - Participated in Science outreach events for school children by presenting posters and conducting experiments.
+
 
 Publications
 ======
