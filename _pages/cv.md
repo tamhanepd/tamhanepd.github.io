@@ -16,11 +16,16 @@ SKILLS
 
 WORK EXPERIENCE
 ======
+## Data Scientist | ZebraKet, Canada
+### June 2023 – Present
+- Implemented data cleaning and preprocessing procedures with Pandas and Python for industrial facility data ensuring high data quality and eliminating inconsistencies.
+- Utilizing ML and deep learning techniques using Scikit-learn and PyTorch to develop fault detection models.
+ -Conducting in-depth data analysis and feature engineering, identifying key patterns and relevant features to improve model’s performance.
+
 ## Postdoc | University of Waterloo, Canada
-### February 2023 – August 2023
-- Simulated observations of galaxy clusters for the upcoming XRISM mission.
-- Preparing XRISM proposals.
-- Writing scientific articles.
+### February 2023 – Present
+- Simulating mock observations of galaxies and data analysis using Python in preparation for the upcoming launch of an X-ray space telescope (XRISM).
+- Mentoring two graduate students, collaborated on telescope time proposals, and wrote a research paper submitted to a reputed journal.
 
 ## Research Assistant | University of Waterloo, Canada
 ### May 2017 – December 2022
@@ -60,6 +65,7 @@ AWARDS
 
 CONFERENCES/WORKSHOPS
 ======
+- Star formation in the era of JWST (Delivered a talk), 2023
 - Compute Ontario Summer School: ML, Git and Deep Learning, 2022
 - Galaxy clusters 2022: Challenges and Cosmological perspectives (Delivered a talk), 2022
 
