@@ -9,15 +9,15 @@ main:
   - title: "Teaching"
     url: /teaching/    
     
-   - title: "Research"
-     url: /research/
-        
-   - title: "Personal"
-     url: /personal/
+#  - title: "Research"
+#    url: /research/
     
   - title: "CV"
     url: /cv/
-    
+
+  - title: "Personal"
+    url: /personal/
+
 #   - title: "Guide"
 #     url: /markdown/
 
