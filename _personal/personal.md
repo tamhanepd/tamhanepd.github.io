@@ -1,6 +1,6 @@
 ---
 title: "Personal"
-permalink: /personal/personal
+permalink: /personal
 collection: personal
 type: "Personal"
 ---
