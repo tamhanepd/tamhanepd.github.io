@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Prathamesh Tamhane"
 title_separator          : "-"
 name                     : &name "Prathamesh Tamhane"
-description              : &description "Postdoc at the University of Waterloo."
+description              : &description "Postdoc at the University of Alabama in Huntsville."
 url                      : https://tamhanepd.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "tamhanepd.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Prathamesh Tamhane"
   avatar           : "profile.jpg"
-  bio              : "Postdoc at the University of Waterloo, Data Scientist at ZebraKet."
-  location         : "Waterloo, Ontario, Canada"
+  bio              : "Postdoc at the University of Alabama in Huntsville."
+  location         : "Huntsville, Alabama, USA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.co.in/citations?hl=en&user=w-B9958AAAAJ"
