@@ -11,7 +11,7 @@ var addressPoints = [
   ],
   [
     "Huntsville, Alabama,
-    34.7304,
-    -86.5861"
+    34.7304000,
+    -86.5861000"
   ]
 ];
