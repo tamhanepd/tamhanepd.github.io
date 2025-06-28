@@ -10,8 +10,8 @@ redirect_from:
 
 Hello! Welcome to my homepage.
 
-I'm a Postdoctoral researcher at the University of Alabama in Huntsville in Huntsville, Alabama. I obtained my PhD in Astronomy from the University of Waterloo in Canada. My research interests lie in the realm of AGN feedback, with a specific focus on radio-mechanical feedback in galaxy groups and clusters. I examine the impact of this feedback on central cluster galaxies, particularly its role in suppressing star formation, molecular gas formation and influencing galaxy evolution.
+I'm a Postdoctoral Researcher at the University of Alabama in Huntsville, where I study how active galactic nuclei (AGN) shape their environments. My work focuses on radio-mechanical feedback in galaxy groups and clusters, particularly how it influences central galaxies, from regulating star formation to shaping the molecular gas content and overall galaxy evolution. I earned my PhD in Astronomy from the University of Waterloo in Canada.
 
-In addition to my academic journey, I bring valuable industry experience as a data scientist at ZebraKet. This role has equipped me with practical skills in extracting meaningful insights from complex datasets and translating them into actionable solutions. My ability to analyze diverse information sources sets me apart as a versatile thinker with a holistic perspective.
+Beyond my research, I have experience as a data scientist at ZebraKet, which has broadened my analytical perspective across different domains. I'm fascinated by the rise of AI and actively explore its applications in science and other disciplines, particularly how these tools can enhance research methodologies and data analysis.
 
-In my free time, I enjoy speding time outdoors hiking, biking, indoor/outdoor rock climbing. I also enjoy nature and bird photography.
+In my free time, I enjoy spending time outdoors hiking, biking, playing volleyball and indoor/outdoor rock climbing. I'm also passionate about nature and bird photography.
