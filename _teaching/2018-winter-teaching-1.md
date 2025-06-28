@@ -4,7 +4,9 @@ collection: teaching assistant
 type: "Undergraduate course"
 permalink: /teaching/2018-winter-teaching-1
 venue: "University of Waterloo"
-date: Winter 2018, Winter 2020
+date: 
+- 2018-01-01
+- 2020-01-01
 location: "Waterloo, Canada"
 ---
 
