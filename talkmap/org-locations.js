@@ -18,5 +18,10 @@ var addressPoints = [
     "Waterloo, Ontario",
     43.471155,
     -80.544692
+  ],
+  [
+    "Athens, Greece",
+    37.961232,
+    23.708275
   ]
 ];
