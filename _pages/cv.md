@@ -14,7 +14,7 @@ SKILLS
 ======
 
 - **Programming & Scripting**: Python, SQL, C++, Scala, Bash  
-- **Machine Learning & AI**: Scikit-learn, PyTorch, TensorFlow, Hugging Face Transformers, CNNs, RNNs, LLMs, Transfer Learning, Fine-tuning, Prompt Engineering  
+- **Machine Learning & AI**: Scikit-learn, PyTorch, TensorFlow, Hugging Face Transformers, CNNs, LLMs, Transfer Learning, Fine-tuning, Prompt Engineering  
 - **Data Science & Analysis**: Pandas, NumPy, Spark, SciPy, Astropy, Bayesian inference, Time series analysis, Statistical modeling, Dimensionality reduction  
 - **Visualization & Development Tools**: Matplotlib, Seaborn, Plotly, Jupyter Notebook, Git, LaTeX, Linux  
 - **Astronomy Software & Pipelines**: CASA, CIAO, ESOREFLEX, DS9, TOPCAT, MONTAGE, ppxf  
@@ -29,7 +29,7 @@ WORK EXPERIENCE
 ### **Postdoctoral Researcher** | University of Alabama in Huntsville, USA  
 *September 2023 – Present*  
 - Analyzed HST ultraviolet imaging of M87 to quantify star formation rates and histories using custom Python pipelines for source extraction, image processing, and statistical modeling, identifying the weakest known starburst in a massive galaxy.  
-- Contributed to successful proposals for JWST, ALMA, and XRISM (including two accepted, one as PI), and collaborated on multiwavelength observational campaigns involving HST, MUSE, and other instruments to study AGN feedback and star formation.  
+- Contributed to successful proposals for ALMA and XRISM, and collaborated on multiwavelength observational campaigns involving HST, MUSE, and other instruments to study AGN feedback and star formation.  
 - Led and supported cross-institutional research projects, mentored junior researchers, presented at international conferences, and reviewed telescope proposals and scientific manuscripts.
 
 ### **Data Scientist** | ZebraKet, Canada  

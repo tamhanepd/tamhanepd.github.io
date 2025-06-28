@@ -1,10 +1,10 @@
 ---
-title: "ECE105"
-collection: teaching
+title: "PHYS 132L"
+collection: teaching assistant
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/2020-winter-teaching-1
 venue: "University of Waterloo"
-date: 2018-01-01
+date: 2020-01-01
 location: "Waterloo, Canada"
 ---
 
