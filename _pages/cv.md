@@ -9,45 +9,58 @@ redirect_from:
 
 {% include base_path %}
 
+
 SKILLS
 ======
-- Programming Languages: Python, SQL, C++, Scala
-- Tools: Matplotlib, Scikit-learn, Pandas, Jupyter Notebook, PyTorch, Tensorflow, Plotly, Git, LaTeX, Linux, Spark, ppxf
-- Softwares: CASA, ESOREFLEX, CIAO, DS9, TOPCAT, MONTAGE
+
+- **Programming & Scripting**: Python, SQL, C++, Scala, Bash  
+- **Machine Learning & AI**: Scikit-learn, PyTorch, TensorFlow, Hugging Face Transformers, CNNs, RNNs, LLMs, Transfer Learning, Fine-tuning, Prompt Engineering  
+- **Data Science & Analysis**: Pandas, NumPy, Spark, SciPy, Astropy, Bayesian inference, Time series analysis, Statistical modeling, Dimensionality reduction  
+- **Visualization & Development Tools**: Matplotlib, Seaborn, Plotly, Jupyter Notebook, Git, LaTeX, Linux  
+- **Astronomy Software & Pipelines**: CASA, CIAO, ESOREFLEX, DS9, TOPCAT, MONTAGE, ppxf  
+- **Core Competencies**: End-to-end data pipelines, model training and evaluation, proposal writing, interdisciplinary collaboration, scientific communication
+
+
 
 WORK EXPERIENCE
 ======
-## Postdoc | University of Alabama in Huntsville, USA
-### September 2023 – Present
+## Work Experience
 
-## Data Scientist | ZebraKet, Canada
-### June 2023 – August 2023
-- Implemented data cleaning and preprocessing procedures with Pandas and Python for industrial facility data ensuring high data quality and eliminating inconsistencies.
-- Utilized ML and deep learning techniques using Scikit-learn and PyTorch to develop fault detection models.
-- Conducted in-depth data analysis and feature engineering, identifying key patterns and relevant features to improve model’s performance.
+### **Postdoctoral Researcher** | University of Alabama in Huntsville, USA  
+*September 2023 – Present*  
+- Analyzed HST ultraviolet imaging of M87 to quantify star formation rates and histories using custom Python pipelines for source extraction, image processing, and statistical modeling, identifying the weakest known starburst in a massive galaxy.  
+- Contributed to successful proposals for JWST, ALMA, and XRISM (including two accepted, one as PI), and collaborated on multiwavelength observational campaigns involving HST, MUSE, and other instruments to study AGN feedback and star formation.  
+- Led and supported cross-institutional research projects, mentored junior researchers, presented at international conferences, and reviewed telescope proposals and scientific manuscripts.
 
-## Postdoc | University of Waterloo, Canada
-### February 2023 – August 2023
-- Simulated mock observations of galaxies and data analysis using Python in preparation for the upcoming launch of an X-ray space telescope (XRISM).
-- Mentored two graduate students, collaborated on telescope time proposals, and wrote a research paper submitted to a reputed journal.
+### **Data Scientist** | ZebraKet, Canada  
+*June 2023 – August 2023*  
+- Developed data cleaning and preprocessing pipelines using Python and Pandas to ensure high-quality industrial facility data.  
+- Built fault detection models using machine learning and deep learning (scikit-learn, PyTorch), improving anomaly detection accuracy.  
+- Performed feature engineering and statistical analysis to identify key variables influencing system performance.
 
-## Research Assistant | University of Waterloo, Canada
-### May 2017 – December 2022
-- Conducted in-depth analysis of several Terabytes of radio, optical and X-ray telescope data of galaxies to generate science ready images and spectra and extracted key features for analysis.
-- Utilized Bayesian methods and linear regression to perform statistical analysis on galaxy properties extracted from images and spectra leading to new findings which were published in a reputed journal.
-- Demonstrated adaptability and flexibility by reassessing and modifying project goals when it became clear key data would be unavailable.
-- Collaborated with an international team of researchers, leading and co-leading projects that resulted in 4 academic papers and presentations at international conferences.
+### **Postdoctoral Researcher** | University of Waterloo, Canada  
+*February 2023 – August 2023*  
+- Simulated mock galaxy observations and analyzed data for the upcoming XRISM X-ray space telescope mission using Python.  
+- Mentored two graduate students and co-authored a research paper submitted to a peer-reviewed journal.  
+- Collaborated on competitive telescope time proposals with international research teams.
 
-## Teaching Assistant | University of Waterloo, Canada
-### May 2017 – December 2022
-- Developed and delivered engaging tutorials for undergraduate physics courses providing students with a solid understanding of core concepts.
-- Instructed 5 lab courses, graded assignments, lab reports and exams both in person and online.
+### **Research Assistant (PhD)** | University of Waterloo, Canada  
+*May 2017 – December 2022*  
+- Analyzed multi-wavelength datasets (radio, optical, X-ray) of galaxies, creating science-ready images and spectra from several terabytes of raw data.  
+- Applied Bayesian inference and linear regression to study galaxy properties, contributing to multiple peer-reviewed publications.  
+- Adapted research strategies to data availability constraints, demonstrating flexibility in long-term project planning.  
+- Collaborated with international teams; led and co-led projects resulting in four academic papers and multiple conference presentations.
 
-## Visiting Research Student | National Centre for Radio Astrophysics, India
-### May 2014 – May 2015
-- Led the project to analyze data of a galaxy I discovered, modeled its spectrum, and derived its physical properties.
-- Consolidated research results into a scientific paper that was published in a reputed journal and received media attention.
-- Organized large astronomical datasets with thousands of galaxies and performed statistical analysis to identify correlations between various galaxy properties.
+### **Teaching Assistant** | University of Waterloo, Canada  
+*May 2017 – December 2022*  
+- Delivered tutorials for undergraduate physics courses and provided one-on-one academic support to students.  
+- Taught five laboratory courses and evaluated student performance across written assignments and exams in both in-person and virtual settings.
+
+### **Visiting Research Student** | National Centre for Radio Astrophysics, India  
+*May 2014 – May 2015*  
+- Analyzed data from a newly identified galaxy; modeled its spectrum to derive key physical properties.  
+- Authored a peer-reviewed publication based on this work, which received media coverage.  
+- Processed and statistically analyzed large galaxy datasets to identify trends in galaxy morphology and emission.
 
 
 
@@ -66,6 +79,7 @@ AWARDS
 - IAU travel grant to attend UniversAI conference, 2025
 - Marie Curie Graduate Student Award, 2017
 - INSPIRE Scholarship by Govt. of India to pursue science, 2010 – 2015
+
 
 
 TELESCOPE PROPOSALS
@@ -88,10 +102,12 @@ CONFERENCES/WORKSHOPS
 - Winter school on Astroparticle physics, 2013 (Darjeeling, India)
 
 
+
 VOLUNTEERING
 ======
 - Volunteered for Marathi language Wikipedia by writing 100+ articles and creating infoboxes, 2015 – 2017
 - Participated in Science outreach events for school children by presenting posters and conducting experiments.
+
 
 
 Publications
@@ -100,11 +116,15 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+  
+  
 Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
+  
+  
   
 Teaching
 ======
