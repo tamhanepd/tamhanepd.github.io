@@ -8,4 +8,4 @@ date: 2020-01-01
 location: "Waterloo, Canada"
 ---
 
-Conducted tutorials for the course, graded student's assignments and exams, held office hours.
+Instructed and supervised undergraduate students in a first-year physics lab course, guiding them through experiments, data analysis, and report writing to reinforce core concepts in mechanics and electromagnetism.
