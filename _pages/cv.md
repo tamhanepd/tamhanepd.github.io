@@ -11,7 +11,7 @@ redirect_from:
 
 SKILLS
 ======
-- Programming Languages: Python (10+ years), C++, Scala, SQL
+- Programming Languages: Python, SQL, C++, Scala
 - Tools: Matplotlib, Scikit-learn, Pandas, Jupyter Notebook, PyTorch, Tensorflow, Plotly, Git, LaTeX, Linux, Spark, ppxf
 - Softwares: CASA, ESOREFLEX, CIAO, DS9, TOPCAT, MONTAGE
 
@@ -24,7 +24,7 @@ WORK EXPERIENCE
 ### June 2023 – August 2023
 - Implemented data cleaning and preprocessing procedures with Pandas and Python for industrial facility data ensuring high data quality and eliminating inconsistencies.
 - Utilized ML and deep learning techniques using Scikit-learn and PyTorch to develop fault detection models.
- -Conducted in-depth data analysis and feature engineering, identifying key patterns and relevant features to improve model’s performance.
+- Conducted in-depth data analysis and feature engineering, identifying key patterns and relevant features to improve model’s performance.
 
 ## Postdoc | University of Waterloo, Canada
 ### February 2023 – August 2023
@@ -55,7 +55,6 @@ EDUCATION
 ======
 ## PhD in Astronomy – University of Waterloo, Canada
 ### 2017 – 2022
-- Relevant courses: Astrostatistics, Machine Learning in Physics
 
 ## BS & MS in Physics – Indian Institute of Science Education and Research Pune, India
 ### 2010 – 2015
@@ -64,14 +63,30 @@ EDUCATION
 
 AWARDS
 ======
+- IAU travel grant to attend UniversAI conference, 2025
 - Marie Curie Graduate Student Award, 2017
-- INSPIRE Scholarship (INR 80,000/year for 5 years) by Govt. of India to pursue science, 2010 – 2015
+- INSPIRE Scholarship by Govt. of India to pursue science, 2010 – 2015
+
+
+TELESCOPE PROPOSALS
+======
+- ALMA Cycle 11 — "The origin and dynamics of molecular gas in central galxies of cool-core groups," awarded, 2024 (PI)
+- XRISM Cycle 1 — "STUDYING HOT GAS KINEMATICS IN A1689 WITH XRISM," awarded, 2024 (co-I)
+
+
 
 CONFERENCES/WORKSHOPS
 ======
-- Star formation in the era of JWST (Delivered a talk), 2023
-- Compute Ontario Summer School: ML, Git and Deep Learning, 2022
-- Galaxy clusters 2022: Challenges and Cosmological perspectives (Delivered a talk), 2022
+- UniversAI: Exploring the Universe with Artificial Intelligence, 2025 (Athens, Greece)
+- McNamara@65: Understanding Feedback in Galaxies and Clusters, 2024 (Waterloo, Canada)
+- Star formation in the era of JWST, 2023 (Paralia, Greece)
+- Compute Ontario Summer School: ML, Git and Deep Learning, 2022 (online)
+- Galaxy clusters 2022: Challenges and Cosmological perspectives, 2022 (STScI, USA)
+- 16th Synthesis Imaging Workshop, 2018 (Socorro, NM, USA)
+- SKA Pathfinders Radio Continuum Surveys, 2016 (Goa, India)
+- 33rd Meeting of Astronomical Society of India, 2015 (NCRA, India)
+- Winter school on Astroparticle physics, 2013 (Darjeeling, India)
+
 
 VOLUNTEERING
 ======
