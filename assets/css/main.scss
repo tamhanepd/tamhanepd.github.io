@@ -39,3 +39,18 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+.photo-gallery {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.photo-gallery img {
+  transition: transform 0.2s ease;
+}
+
+.photo-gallery img:hover {
+  transform: scale(1.05);
+}
+
