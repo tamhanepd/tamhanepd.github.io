@@ -1,10 +1,14 @@
 # Authors
 
 Prathamesh Tamhane:
-  name        : "Prathamesh Tamhane"
-  email       : "prathameshdt@gmail.com"
-  bio         : "Postdoc at the University of Alabama in Huntsville."
-  location    : "Huntsville, Alabama, USA"
-  avatar      : "profile.jpg"
-  googlescholar: "https://scholar.google.co.in/citations?hl=en&user=w-B9958AAAAJ"
-  nasaads     : "https://ui.adsabs.harvard.edu/public-libraries/Btuqq1EiT2qd0L1NObu6pQ"
+  name             : "Prathamesh Tamhane"
+  email            : "prathameshdt@gmail.com"
+  bio              : "Postdoc at the University of Alabama in Huntsville."
+  location         : "Huntsville, Alabama, USA"
+  avatar           : "profile.jpg"
+  googlescholar    : "https://scholar.google.co.in/citations?hl=en&user=w-B9958AAAAJ"
+  nasaads          : "https://ui.adsabs.harvard.edu/public-libraries/Btuqq1EiT2qd0L1NObu6pQ"
+  github           : "tamhanepd"
+  linkedin         : "prathamesh-tamhane-7a300897"
+  orcid            : "http://orcid.org/0000-0001-8176-7665"
+  twitter          : "PDTamhane"

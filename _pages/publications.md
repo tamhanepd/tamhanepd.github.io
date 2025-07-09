@@ -15,3 +15,9 @@ author: "Prathamesh Tamhane"
 {% if author.nasaads %}
   <p>My publication list is also available on <a href="{{ author.nasaads }}" target="_blank">NASA ADS</a>.</p>
 {% endif %}
+
+{% include base_path %}
+
+{% for post in site.publications reversed %}
+  {% include archive-single.html %}
+{% endfor %}
