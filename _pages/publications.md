@@ -3,6 +3,7 @@ layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
+author: "Prathamesh Tamhane"
 ---
 
 {% if author.googlescholar %}
