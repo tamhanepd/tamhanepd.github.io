@@ -86,6 +86,7 @@ TELESCOPE PROPOSALS
 ======
 - ALMA Cycle 11 — "The origin and dynamics of molecular gas in central galxies of cool-core groups," awarded, 2024 (PI)
 - XRISM Cycle 1 — "Studying hot gas kinematics in A1689 with XRISM," awarded, 2024 (co-I)
+- ALMA Cycle 6 - "Understanding column densities toward massive gas flows in gas-rich central galaxies," awarded, 2018 (co-I)
 
 
 
