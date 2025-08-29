@@ -16,7 +16,7 @@ Beyond my research, I have experience as a data scientist at ZebraKet, which has
 
 In my free time, I enjoy spending time outdoors hiking, biking, playing volleyball and indoor/outdoor rock climbing. I'm also passionate about nature and bird photography.
 
-<div class="visitor-globe">
+<div class="visitor-globe" title="This globe shows where visitors to this page come from">
   <script type="text/javascript" id="mmvst_globe"
     src="//mapmyvisitors.com/globe.js?d=uUInpJiO5nCLmE1p4E6XNYtHKCWEUI0GTplNEQYRzQE">
   </script>
