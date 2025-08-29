@@ -55,7 +55,9 @@
 }
 
 .visitor-globe {
-  margin-top: 1em;
+  width: 300px;    /* adjust as needed */
+  height: 300px;
+  margin: 1em auto;   /* center it with margin */
+  overflow: hidden;   /* clip anything outside */
   text-align: center;
 }
-
