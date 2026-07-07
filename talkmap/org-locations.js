@@ -23,5 +23,10 @@ var addressPoints = [
     "Athens, Greece",
     37.961232,
     23.708275
+  ],
+  [
+    "Montreal, Canada",
+    45.5017,
+    -73.5673
   ]
 ];
